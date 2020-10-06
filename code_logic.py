@@ -78,7 +78,7 @@ def main():
         pprint.PrettyPrinter(indent=1, width=100).pprint(output_data)
         
         # uncomment below two lines if you want to save your data
-        with open('output.json', 'w') as output_file:
-            json.dump(output_data, output_file, indent=3)
+        #with open('output.json', 'w') as output_file:
+            #json.dump(output_data, output_file, indent=3)
 
 main()
