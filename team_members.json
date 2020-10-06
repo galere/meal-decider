@@ -1,0 +1,85 @@
+[
+     {
+          "name": "Danielle Ren",
+          "wont_eat": [
+               "Fish"
+          ],
+          "drinks": [
+               "Cider",
+               "Rum",
+               "Soft drinks"
+          ]
+     },
+     {
+          "name": "Cristiana Lucitano",
+          "wont_eat": [
+               "Eggs",
+               "Pasta"
+          ],
+          "drinks": [
+               "Cider",
+               "Rum",
+               "Soft drinks"
+          ]
+     },
+     {
+          "name": "Karol Drewno",
+          "wont_eat": [
+               "Bread",
+               "Pasta"
+          ],
+          "drinks": [
+               "Tequila",
+               "beer",
+               "Soft drinks",
+               "Coffee"
+          ]
+     },
+     {
+          "name": "Gaston Chambray",
+          "wont_eat": [],
+          "drinks": [
+               "Cider",
+               "Beer",
+               "Soft drinks",
+               "Rum"
+          ]
+     },
+     {
+          "name": "Tom Mullen",
+          "wont_eat": [
+               "Meat",
+               "Fish"
+          ],
+          "drinks": [
+               "Soft drinks",
+               "Tea"
+          ]
+     },
+     {
+          "name": "Rossie Curran",
+          "wont_eat": [
+               "Mexican"
+          ],
+          "drinks": [
+               "Vodka",
+               "Gin",
+               "Whisky",
+               "Rum",
+               "Cider",
+               "Beer",
+               "Soft drinks"
+          ]
+     },
+     {
+          "name": "Wen Li",
+          "wont_eat": [
+               "Chinese"
+          ],
+          "drinks": [
+               "Rum",
+               "Cider",
+               "Beer"
+          ]
+     }
+]

@@ -1,0 +1,103 @@
+[
+     {
+          "name": "El Cantina",
+          "food": [
+               "Mexican"
+          ],
+          "drinks": [
+               "Cider",
+               "Rum",
+               "Soft drinks"
+          ]
+     },
+     {
+          "name": "Twin Dynasty",
+          "food": [
+               "Chinese"
+          ],
+          "drinks": [
+               "Cider",
+               "Rum",
+               "Soft drinks",
+               "Beer",
+               "Whisky",
+               "Cider"
+          ]
+     },
+     {
+          "name": "Spice of Life",
+          "food": [
+               "Eggs",
+               "Meat",
+               "Fish",
+               "Pasta",
+               "Diary"
+          ],
+          "drinks": [
+               "Vodka",
+               "Gin",
+               "Whisky",
+               "Coffee",
+               "Cider",
+               "Rum",
+               "Soft drinks",
+               "Beer"
+          ]
+     },
+     {
+          "name": "The Cambridge",
+          "food": [
+               "Eggs",
+               "Meat",
+               "Fish",
+               "Pasta",
+               "Diary"
+          ],
+          "drinks": [
+               "Vodka",
+               "Gin",
+               "Cider",
+               "Beer",
+               "Soft drinks"
+          ]
+     },
+     {
+          "name": "Wagamama",
+          "food": [
+               "Japanese"
+          ],
+          "drinks": [
+               "Beer",
+               "Cider",
+               "Soft drinks",
+               "Sake"
+          ]
+     },
+     {
+          "name": "Sultan Sofrasi",
+          "food": [
+               "Meat",
+               "Bread",
+               "Fish"
+          ],
+          "drinks": [
+               "Beer",
+               "Cider",
+               "Soft drinks"
+          ]
+     },
+     {
+          "name": "Spirit House",
+          "food": [
+               "Nuts",
+               "Cheese",
+               "Fruit"
+          ],
+          "drinks": [
+               "Vodka",
+               "Gin",
+               "Rum",
+               "Tequila"
+          ]
+     }
+]
