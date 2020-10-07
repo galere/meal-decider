@@ -48,6 +48,7 @@ def main():
             row_dict = {}
             reasons = []
             avoid_dict = {}
+            to_visit_flag = True
             for member in team_member_file_data:
                 member_name = member['name']
                 wont_eat = member['wont_eat']
@@ -66,6 +67,8 @@ def main():
                         reasons.append(f"There's nothing to for {member_name} to drink.")
                     if out_fields[1] not in row_dict.keys():
                         row_dict[out_fields[1]] = []
+            # if reasons == []:
+            #     print(row)
             avoid_dict['reason'] = reasons
             if output_data == {}:
                 output_data[out_fields[0]] = []
@@ -79,6 +82,6 @@ def main():
         
         # uncomment below two lines if you want to save your data
         #with open('output.json', 'w') as output_file:
-            #json.dump(output_data, output_file, indent=3)
+        #    json.dump(output_data, output_file, indent=3)
 
 main()
