@@ -17,10 +17,10 @@ def match_two_list(list_a, list_b, pseudo=False):
     for i in list_a:
         for j in list_b:
             if not pseudo:
-                if i == j:
+                if i.lower() == j.lower():
                     pass_flag = True
             else:
-                if i == j:
+                if i.lower() == j.lower():
                     pass_flag = False
     return pass_flag
 
